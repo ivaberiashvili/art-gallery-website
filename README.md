@@ -2,7 +2,7 @@
 
 This is a solution to the [challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/art-gallery-website-yVdrZlxyA). 
 
-Check out the [live URL](https://your-live-site-url.com)
+Check out the [live URL]([https://your-live-site-url.com](https://ivaberiashvili.github.io/art-gallery-website/)
 
 ## **The challenge**
 Users should be able to:
